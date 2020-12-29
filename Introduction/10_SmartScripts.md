@@ -41,7 +41,7 @@ First, let's find a boar and grab its ID:
 Now, we create a new file `EnemyScripts.ts` and add the following line of code:
 
 ```ts
-std.scripts.printCreature(3100);
+std.Scripts.printCreature(3100);
 ```
 
 If we run the `check` command, we get the following output:
